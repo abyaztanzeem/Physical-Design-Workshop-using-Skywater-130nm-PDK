@@ -1,8 +1,19 @@
 # Physical-Design-Workshop-using-Skywater-130nm-PDK
 
-The main purpose of this workshop is to design an On-Chip Clock Multiplier (PLL) and implement the layout using open-source EDA tools such as ngspice and Magic on OSU180nm PDK.
 
-## Section 1 - Introduction and Basics of PLL
+## Day 1 - SK3, L5 (Flop Ratio)
+
+<p align="center">
+  <img width="600" height="250" src="https://i.imgur.com/HdOrvc0.jpg"
+</p>
+  <p align="center">
+    Figure: Flop Ratio
+</p>
+\
+
+
+Flop Ratio = Number of FF's in the design/ Total Number of Cells
+Flop Ratio = 1613/14876 = 0.1084
 
 ### - Intellectual Property
 
