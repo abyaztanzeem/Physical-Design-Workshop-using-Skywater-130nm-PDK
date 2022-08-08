@@ -69,16 +69,6 @@ magic -T sky130A.tech sky130_inv.mag
 </p>
 
 
-## Day 3 - SK1, L5 ()
-
-magic -T sky130A.tech sky130_inv.mag
-\
-<p align="center">
-  <img width="300" height="500" src="https://i.imgur.com/6kqgr9Z.png"
-</p>
-  <p align="center">
-    Figure: Inverter Layout
-</p>
 
 
 
