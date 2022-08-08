@@ -9,7 +9,7 @@
   <p align="center">
     Figure: Flop Ratio
 </p>
-\
+
 
 
 Flop Ratio = Number of FF's in the design/ Total Number of Cells
@@ -24,7 +24,7 @@ Flop Ratio = 1613/14876 = 0.1084
   <p align="center">
     Figure: Die Area
 </p>
-\
+
 
 
 Die Area = ( Height * Width ) / 1000^2
@@ -41,7 +41,7 @@ magic -T ~/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/
   <p align="center">
     Figure: Floorplan
 </p>
-\
+
 
 ## Day 2 - SK2, L5 (Congestion Aware Placement)
 
@@ -54,7 +54,7 @@ magic -T ~/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/
   <p align="center">
     Figure: Placement
 </p>
-\
+
 
 
 
