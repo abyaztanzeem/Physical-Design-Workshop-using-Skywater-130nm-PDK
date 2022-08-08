@@ -4,7 +4,7 @@
 ## Day 1 - SK3, L5 (Flop Ratio)
 
 <p align="center">
-  <img width="300" height="500" src="https://i.imgur.com/HdOrvc0.jpg"
+  <img width="400" height="500" src="https://i.imgur.com/HdOrvc0.jpg"
 </p>
   <p align="center">
     Figure: Flop Ratio
