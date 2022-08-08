@@ -19,7 +19,7 @@ Flop Ratio = 1613/14876 = 0.1084
 ## Day 2 - SK1, L8 (Die Area)
 
 <p align="center">
-  <img width="500" height="300" src="https://i.imgur.com/YzGBf5Q.jpg"
+  <img width="500" height="400" src="https://i.imgur.com/YzGBf5Q.jpg"
 </p>
   <p align="center">
     Figure: Die Area
