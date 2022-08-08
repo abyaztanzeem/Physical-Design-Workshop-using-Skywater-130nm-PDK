@@ -32,7 +32,7 @@ Flop Ratio = (660685 * 671405) / 1000^2 = 443,590 um^2
 
 ## Day 2 - SK1, L8 (Floorplan)
 
-
+run_floorplan
 magic -T ~/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def
 
 <p align="center">
@@ -42,6 +42,36 @@ magic -T ~/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/
     Figure: Floorplan
 </p>
 \
+
+## Day 2 - SK2, L5 (Congestion Aware Placement)
+
+run_placement
+magic -T ~/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.placement.def
+
+<p align="center">
+  <img width="500" height="300" src="https://i.imgur.com/FQ2X0NH.jpg"
+</p>
+  <p align="center">
+    Figure: Placement
+</p>
+\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
