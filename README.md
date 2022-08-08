@@ -57,6 +57,16 @@ magic -T ~/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/
 
 
 
+## Day 3 - SK1, L5 (vsdstdcelldesign inverter layout)
+
+magic -T sky130A.tech sky130_inv.mag
+
+<p align="center">
+  <img width="500" height="300" src="https://i.imgur.com/6kqgr9Z.png"
+</p>
+  <p align="center">
+    Figure: Inverter Layout
+</p>
 
 
 
